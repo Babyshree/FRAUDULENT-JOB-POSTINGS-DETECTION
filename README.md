@@ -1,1 +1,2 @@
 # Fakejob
+The Job Posting Fraud Detection project focuses on utilizing machine learning algorithms to identify fraudulent job postings. With the proliferation of online job portals, fraudulent job postings have become a significant concern, potentially leading to financial loss and reputational damage for both job seekers and legitimate companies. This project addresses this issue by developing a classification model capable of distinguishing between legitimate and fraudulent job postings.
